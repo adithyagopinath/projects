@@ -1,3 +1,7 @@
+"""
+Code completed for Rock, paper, scissors game. Need to add docstrings.
+"""
+
 import random
 
 def mode():
