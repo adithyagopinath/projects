@@ -22,3 +22,5 @@ if __name__ == "__main__":
         print("The format to execute this is as followed:\n'py fileintegritychecker file1 file2' for Windows\n'python fileintegritychecker file1 file2' for Mac")
     else:
         compare_hash_file(sys.argv[1], sys.argv[2])
+        
+# Make sure to copy path of the fileintegrityfolder and set it as directory (cd "path") before running the program
